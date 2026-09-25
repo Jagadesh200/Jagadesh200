@@ -85,7 +85,7 @@ YOUR_HOUSEPRICE_REPO
 
 ✅ JS
 
-✅ CSS
+✅ css
 --
 
 ## 🤝 Connect with Me
@@ -95,7 +95,7 @@ YOUR_HOUSEPRICE_REPO
 
 <a href="https://linkedin.com/in/ malapati-jagadeeswara-reddy">LinkedIn</a> •
 <a href="mailto:jagadeshmalapati@gmail.com">Email</a> •
-<a href="https://github.com/jagadesh200">GitHub</a> •
+<a href="https://github.com/jagadesh200">GitHub</a> 
 
 </p>
 
