@@ -50,7 +50,7 @@ Healthcare prediction model using Machine Learning with feature engineering and 
 
 **Tech**
 
-Python • Pandas • Scikit-learn
+Python 
 
 ---
 ### 🏡 House Price Prediction
@@ -86,70 +86,19 @@ YOUR_HOUSEPRICE_REPO
 ✅ JS
 
 ✅ CSS
-
-
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kilarisrinivaskalyan7432&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilarisrinivaskalyan7432&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=kilarisrinivaskalyan7432&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kilarisrinivaskalyan7432&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kilarisrinivaskalyan7432&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
+--
 
 ## 🤝 Connect with Me
 
 <p align="center">
 
-<a href="https://portfolio-iota-rust-1dddtrh57o.vercel.app/">Portfolio</a> •
-<a href="https://linkedin.com/in/srinivas-kalyan7432">LinkedIn</a> •
-<a href="mailto:kilarikalyan7432@gmail.com">Email</a> •
-<a href="https://github.com/kilarisrinivaskalyan7432">GitHub</a> •
-<a href="https://leetcode.com/u/kilarisrinivaskalyan/">LeetCode</a> •
-<a href="https://www.geeksforgeeks.org/user/kilarikalqu73/">GeeksforGeeks</a>
+
+<a href="https://linkedin.com/in/ malapati-jagadeeswara-reddy">LinkedIn</a> •
+<a href="mailto:jagadeshmalapati@gmail.com">Email</a> •
+<a href="https://github.com/jagadesh200">GitHub</a> •
 
 </p>
 
 ---
 
-<p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=kilarisrinivaskalyan7432&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
