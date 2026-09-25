@@ -13,24 +13,11 @@ Python Developer
 ## 🚀 About Me
 
 - 🎓 B.Tech in Electronics & Communication Engineering (2025)
-- 🤖 Passionate about Artificial Intelligence, Machine Learning and Generative AI
+- 🤖 Passionate about python developer
 - 💻 Building AI-powered applications using Python
-- 📚 Interested in LLMs, RAG, FastAPI and AI Automation
-- 🌱 Currently learning **LangGraph, CrewAI, Azure AI, MCP and MLOps**
+- 📚 Interested in LLMs and Automation
 - 📍 Hyderabad, India
-- 💼 Open to AI Engineer, Machine Learning Engineer and GenAI Engineer opportunities
-
----
-
-## 🌐 Portfolio & Resume
-
-🌍 Portfolio
-
-https://portfolio-iota-rust-1dddtrh57o.vercel.app/
-
-📄 Resume
-
-https://drive.google.com/file/d/1g7Od4vaWcS4CY0Qi63tjODnBnUu1GRCV/view?usp=drive_link
+- 💼 Open to Python Developer, Backend Developer and Python Automation Engineer opportunities
 
 💼 LinkedIn
 
