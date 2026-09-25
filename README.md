@@ -21,85 +21,27 @@ Python Developer
 
 💼 LinkedIn
 
-https://linkedin.com/in/srinivas-kalyan7432
+https://linkedin.com/in/malapati-jagadeeswara-reddy
 
 📧 Email
 
-kilarikalyan7432@gmail.com
+jagadeshmalapati@gmail.com
 
 ---
 
 ## 🛠 Tech Stack
 
-### Programming
+### Python
 
-![Python](https://skillicons.dev/icons?i=python)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-
----
-
-### Machine Learning
-
-- Scikit-learn
-- NumPy
-- Pandas
-- Feature Engineering
-- Model Evaluation
-- Data Preprocessing
-- EDA
-
----
-
-### Generative AI
-
-- LangChain
-- FastAPI
-- FAISS
-- Gemini API
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-
----
-
-### Visualization
-
-- Streamlit
-- Power BI
-- Matplotlib
-- Seaborn
-- Excel
-
----
-
-## 🚀 Featured Projects
-
-### 📄 Intelligent Document Search & Question Answering (RAG)
-
-Developed a Retrieval-Augmented Generation application that enables users to upload PDF documents and receive context-aware answers using Large Language Models.
-
-**Tech**
-
-LangChain • FastAPI • FAISS • Gemini API • Streamlit
-
-🔗 Repository
-
-YOUR_RAG_REPO
-
----
-
-### 💳 Fraud Detection System
-
-Machine Learning application for detecting fraudulent financial transactions using Logistic Regression and Streamlit.
-
-**Tech**
-
-Python • Pandas • NumPy • Scikit-learn • Streamlit
-
-🔗 Repository
-
-YOUR_FRAUD_REPO
+- Python Programming
+- OOP (Object-Oriented Programming)
+- Data Structures
+- Functions
+- Exception Handling
+- File Handling
+- Modules & Packages
+- Automation Scripting
+- Git & GitHub
 
 ---
 
@@ -112,23 +54,6 @@ Healthcare prediction model using Machine Learning with feature engineering and 
 Python • Pandas • Scikit-learn
 
 ---
-
-### 📊 Sales Analytics Dashboard
-
-Interactive dashboard developed using SQL, Power BI and Excel for business insights.
-
----
-
-### 🚢 Titanic Survival Prediction
-
-Machine Learning model using ensemble methods, Optuna hyperparameter tuning and SHAP explainability.
-
-🔗 Repository
-
-YOUR_TITANIC_REPO
-
----
-
 ### 🏡 House Price Prediction
 
 Regression model with advanced feature engineering and model optimization.
@@ -141,27 +66,14 @@ YOUR_HOUSEPRICE_REPO
 
 ## 📜 Certifications
 
-🏆 Meta — GenAI in Data Analytics
-
 🏆 Infosys Springboard — Python Programming
 
-🏆 HackerRank — SQL (Basic)
-
 🏆 HackerRank — Python (Basic)
-
-🏆 GreatStack — Designing and Implementing Server Infrastructure
 
 ---
 
 ## 📚 Currently Learning
 
-- Azure AI
-- LangGraph
-- CrewAI
-- MCP
-- MLOps
-- Agentic AI
-- Vector Databases
 - AI Deployment
 
 ---
@@ -170,27 +82,13 @@ YOUR_HOUSEPRICE_REPO
 
 ✅ Python
 
-✅ Machine Learning
+✅ HTML
 
-✅ SQL
+✅ JS
 
-✅ Streamlit
+✅ CSS
 
-✅ FastAPI
 
-🔄 LangGraph
-
-🔄 CrewAI
-
-🔄 Azure AI
-
-🔄 Docker
-
-🔄 Kubernetes
-
-🔄 MLOps
-
-🔄 Computer Vision
 
 ---
 
