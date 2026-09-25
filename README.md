@@ -5,8 +5,7 @@ Python Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Python+Developer;Generative+AI+Enthusiast;Building+Intelligent+Applications;Always+Learning+New+Technologies" />
-</p>
+
 
 ---
 
