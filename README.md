@@ -85,7 +85,6 @@ YOUR_HOUSEPRICE_REPO
 
 ✅ JS
 
-✅ css
 --
 
 ## 🤝 Connect with Me
